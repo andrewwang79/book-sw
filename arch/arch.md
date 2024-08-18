@@ -89,10 +89,10 @@
 
 ### 资料
 * [亚马逊 CTO 的“中台论”](https://www.infoq.cn/article/SgOOkOhsQBcdkDDEIASg)
-* [设计模式](https://tech.wangyaqi.cn/#/sys/dp)
+* [设计模式](https://sw.wangyaqi.cn/#/theory/dp)
 * [技术委员会](https://blog.csdn.net/aisoo/article/details/104490999)
 * [架构师](https://rd.wangyaqi.cn/#/hire/material/architect)
-* [概要设计](https://tech.wangyaqi.cn/#/doc/sbd)
+* [概要设计](https://sw.wangyaqi.cn/#/dev/design/sbd)
 * [中台团队](https://rd.wangyaqi.cn/#/hire/material/zt)
 
 ### IaaS/PaaS/SaaS
