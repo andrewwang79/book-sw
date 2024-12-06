@@ -27,6 +27,7 @@
     * [中台](arch/zt.md)
 * [系统设计和实现](sys/SUMMARY.md)
     * [API规范](sys/api.md)
+    * [鉴权授权](sys/auth.md)
     * [系统日志](sys/log.md)
     * [数据备份](sys/dataBackup.md)
     * [数据同步](sys/dataSync.md)
