@@ -93,7 +93,7 @@
 * [技术委员会](https://blog.csdn.net/aisoo/article/details/104490999)
 * [架构师](https://rd.wangyaqi.cn/#/hire/material/architect)
 * [概要设计](https://sw.wangyaqi.cn/#/dev/design/sbd)
-* [中台团队](https://rd.wangyaqi.cn/#/hire/material/zt)
+* [中台团队](https://sw.wangyaqi.cn/#/arch/zt)
 
 ### IaaS/PaaS/SaaS
 ![IaaSPaaSSaaS](https://pic4.zhimg.com/80/v2-1a82f8a4997b0ba53d801639d4c6706e_hd.jpg)
