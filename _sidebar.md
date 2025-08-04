@@ -1,8 +1,9 @@
 * [介绍](README.md)
 * [研发阶段](dev/design/SUMMARY.md)
-  * [产品设计](dev/design/product.md)
+  * [需求](dev/design/product.md)
     * [需求分析](dev/design/ra.md)
-    * [系统分析](dev/design/sa.md)
+    * [产品需求文档](dev/design/prd.md)
+    * [系统需求分析](dev/design/sa.md)
   * [概要设计](dev/design/sbd.md)
   * [UML](dev/design/uml.md)
   * 测试
