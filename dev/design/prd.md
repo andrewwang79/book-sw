@@ -1,4 +1,4 @@
-# PRD
+# 产品需求文档
 * [PRD到底该怎么写？](http://www.woshipm.com/pmd/192826.html)
 
 ## 文档结构
@@ -15,3 +15,11 @@
 
 ## 资料
 * [visio设置多个相同类型图形的大小和位置](https://blog.csdn.net/jhsword/article/details/105301529)
+
+### 编写
+* [产品经理十四章：产品需求文档(PRD)](https://developer.aliyun.com/article/655300)
+* [用原型代替PRD时，原型应该包含哪些内容](http://www.woshipm.com/rp/227461.html)
+
+### Axure RP
+1. [Axure RP 7.0快捷键 汇总](http://www.woshipm.com/pd/81482.html)
+1. axure库：[axure](http://www.axure.com/community/widget-libraries)，[axureland](http://axureland.com/axure-widget-libraries)
