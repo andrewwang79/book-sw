@@ -4,6 +4,7 @@
     * [产品需求](dev/design/pr.md)
     * [产品需求文档](dev/design/prd.md)
     * [系统需求分析](dev/design/sa.md)
+  * [架构设计](dev/design/ad.md)
   * [概要设计](dev/design/sbd.md)
   * [UML](dev/design/uml.md)
   * 测试
