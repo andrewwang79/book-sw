@@ -7,7 +7,7 @@
 * [架构模型](http://www.ruanyifeng.com/blog/2016/09/software-architecture.html)：分层架构，事件驱动架构，微核架构，微服务架构，云架构
 
 ## 架构设计分类
->业务架构、应用架构、技术架构、代码架构、部署架构。
+>业务架构、应用架构、技术架构、部署架构。
 业务架构是战略，应用架构是战术，技术架构是装备。
 * [架构分类四种架构方法](https://blog.csdn.net/weixin_43805705/article/details/127967264)
 
@@ -76,3 +76,6 @@
 * [TOGAF企业架构](https://zhuanlan.zhihu.com/p/442963069)有4种：业务架构、数据架构、应用架构、技术架构
 * [资料](https://segmentfault.com/a/1190000019704801)
 * [开放组体系结构框架TOGAF](https://zhuanlan.zhihu.com/p/47939015): 开发企业架构（Enterprise Architecture）的一套方法和工具。企业架构是承接企业业务战略与 IT战略之间的桥梁与标准接口，是企业信息化规划的核心。
+
+## 资料
+* [架构](../../arch/arch)
