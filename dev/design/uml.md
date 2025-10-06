@@ -48,7 +48,7 @@ UML（Unified Modeling Language，统一建模语言）是一种用于软件工�
 | 详细设计 | 活动图 |  |
 
 ## [UML的类关系](https://blog.csdn.net/K346K346/article/details/59582926)
-![](s/bd/ClassRelation.png)
+![](s/uml/ClassRelation.png)
 
 | 关系 | 符号 | 说明 | 示例 |
 | :-: | - | - | - |

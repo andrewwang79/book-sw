@@ -35,7 +35,7 @@
 * [运用RUP 4+1视图方法进行软件架构设计](https://blog.csdn.net/apanious/article/details/51011946), [架构设计4+1视图的作用与关系](https://zhuanlan.zhihu.com/p/112531852)
 * 不同架构视图承载不同的架构设计决策，支持不同的目标和用途：
 
-![](s/sbd/4p1.png)
+![](s/ad/4p1.png)
 
 * 视图
 
