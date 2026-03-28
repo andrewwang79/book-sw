@@ -1,5 +1,5 @@
 * [介绍](README.md)
-* [研发阶段](dev/design/SUMMARY.md)
+* [产品研发](dev/design/SUMMARY.md)
   * [需求分析](dev/design/ra.md)
     * [产品需求](dev/design/pr.md)
     * [产品需求文档](dev/design/prd.md)
@@ -12,6 +12,7 @@
     * [测试知识](dev/test/SUMMARY.md)
     * [通用测试工具](dev/test/tool.md)
     * [单元测试](dev/test/ut.md)
+  * [研发实践经验](dev/design/exp.md)
 * 理论原理
   * [数据结构](theory/ds/SUMMARY.md)
     * [树](theory/ds/tree.md)
